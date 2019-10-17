@@ -1,0 +1,15 @@
+Module1: Basics of python
+	* Python basics
+	* Variables
+	* Lists, dictionaries
+	* functions
+	* modules
+
+Module2: Numpy
+	* datatypes
+	* arrays
+	* 2d arrays
+	* manipulation of 2d arrays
+	* multi-dimensional arrays
+Module3: Matplotlib
+Module4: Pandas
